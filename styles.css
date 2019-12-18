@@ -72,6 +72,7 @@ h2 {
 p {
     font-family: 'Roboto', sans-serif;
     line-height: 22px;
+    text-align:
 }
 
 a {
@@ -283,7 +284,7 @@ h1 {
 }
 
 p {
-    text-align: center;
+    text-align: left;
     margin-bottom: 60px;
 }
 
